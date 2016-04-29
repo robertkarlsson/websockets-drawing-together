@@ -1,5 +1,5 @@
 {
-  "name": "nativesocketdrawing",
+  "name": "websockets-drawing-together",
   "version": "1.0.0",
   "description": "Collaborative drawing with native sockets",
   "main": "index.js",
@@ -9,5 +9,6 @@
   "author": "RobertKarlsson",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.13.4"
   }
 }
